@@ -1,10 +1,10 @@
-## Makefile.am for tuxtype - data/themes/turkana:
+## Makefile.am for tuxtype - data/themes/swahili:
 ## Process with Automake to create Makefile.in
 
 SUBDIRS = words 
 
-themes_turkanadir = $(pkgdatadir)/themes/turkana
+themes_swahilidir = $(pkgdatadir)/themes/swahili
 
-dist_themes_turkana_DATA = AUTHOR \
+dist_themes_swahili_DATA = AUTHOR \
   keyboard.lst	\
   settings.txt

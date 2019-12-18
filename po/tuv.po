@@ -1,4 +1,4 @@
-# Turkana translations for Tux Typing package.
+# Swahili translations for Tux Typing package.
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # mizany  <piusekaikokoi@gmail.com>, 2019
@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Tux Typing 1.5.16\n"
 "Report-Msgid-Bugs-To: tux4kids-tuxtype-dev@lists.alioth.debian.org\n"
 "POT-Creation-Date: 2012-02-02 20:16-0600\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2019-12-18 HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tuv\n"
@@ -29,10 +29,12 @@ msgstr "Etoil lo ang'akiro ana karunok"
 msgid "Music Volume"
 msgstr "Etoil a kimaruko"
         
+
 #: src/pause.c:309
 msgid "Sound & Music Disabled"
 msgstr "Etoil lo ebur etowae"
       
+
 #: src/pause.c:319
 msgid "Paused!"
 msgstr "Akitowo"
@@ -128,7 +130,7 @@ msgstr "Ejie angikanyer"
 # "Pilot" is level 2 in comet zap
 #: src/titlescreen.c:100
 msgid "Pilot"
-msgstr "Ekamian aikeny"
+msgstr "Akamian aikeny"
 
 #: src/titlescreen.c:100
 msgid "Phrase Typing"
@@ -172,13 +174,11 @@ msgstr "Akipasakin"
 msgid "Main Menu"
 msgstr "Akisiekinet angakiro naapolon"
 
-# work in progress stuff
 #: src/titlescreen.c:1129
 msgid "Work In Progress!"
 msgstr "Elosi etic ngaren!"
 
 #: src/titlescreen.c:1130
-#, fuzzy
 msgid "This feature is not ready yet"
 msgstr "Eringa ibore en nyerumoro"
 
@@ -186,13 +186,11 @@ msgstr "Eringa ibore en nyerumoro"
 msgid "Discuss the future of TuxTyping at"
 msgstr "Tolem ngakingolikinet kon ani {TuxTyping} Tuxakichamakin ania"
 
-# general stuff
-#, fuzzy
 msgid "Phrase Practice"
 msgstr "Akitatamikin angakiro"
 
 msgid "Alphabet"
-msgstr "Akitowop a ng'akiro"
+msgstr "akitowop a ng' akiro"
 
 msgid "Setup Keyboard"
-msgstr "Toseu ngarekineta akiibod"
+msgstr "toseu ngarekineta akiibod"
